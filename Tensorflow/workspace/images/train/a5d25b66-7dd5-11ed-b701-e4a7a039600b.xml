@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>a5d25b66-7dd5-11ed-b701-e4a7a039600b.jpg</filename>
+	<path>C:\Users\tvrra\Documents\Computer Vision\RealTimeObjectDetection\Tensorflow\workspace\images\allimages\a5d25b66-7dd5-11ed-b701-e4a7a039600b.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>196</ymin>
+			<xmax>404</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
